@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+.logo {
+    padding-top: 35px;
+}
+
+.fonte {
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5vh;
+}
+
+footer {
+    color: white;
+    padding-top: 5vh;
+    font-weight: bold;
+    padding-bottom: 3vh;
+
+}
+
+body {
+    background-image: url('img/Banner-Blog-Novo-Campeche-1.webp');
+    background-size: cover;
+    background-position: center;
+}
